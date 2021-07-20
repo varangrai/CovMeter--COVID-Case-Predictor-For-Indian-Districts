@@ -15,3 +15,9 @@
     2) Keras  
     3) Tensorflow  
     
+    
+    Sample Prediction: 
+![Sample Predictions](SP1.png)
+![Sample Predictions](SP1.png)
+![Sample Predictions](SP1.png)
+![Training Loss Graph](training loss.png)
