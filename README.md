@@ -20,4 +20,4 @@
 ![Sample Predictions](SP1.png)
 ![Sample Predictions](SP1.png)
 ![Sample Predictions](SP1.png)
-![Training Loss Graph](training loss.png)
+![Training Loss Graph](training_loss.png)
